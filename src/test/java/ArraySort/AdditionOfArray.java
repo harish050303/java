@@ -1,6 +1,6 @@
 package ArraySort;
 
-//addition of 2 array elements with same size
+//addition of 2 array elements with same size  Harrish
 public class AdditionOfArray {
 	public static void main(String[] args) {
 		int[] a = { 2, 3, 4 };
